@@ -37,3 +37,5 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
+
+![UofM homework 20](https://github.com/laurenraehaas/react-portfolio/assets/123714943/9707c256-8033-47cf-8238-0d7c0c7f32d5)
